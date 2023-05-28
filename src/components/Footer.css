@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.footer-section{
+    height: 90px;
+    background-color:  #2F56B5;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.peragraph{
+   text-align: center;
+   color: black;
+   font-size: 18px;
+   padding: 10px;
+   margin-top: 10px;
+}
